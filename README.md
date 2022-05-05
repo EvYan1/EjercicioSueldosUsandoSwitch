@@ -1,2 +1,2 @@
-# EjercicioSueldosUsandoCase
+# EjercicioSueldosUsandoSwitch
 Created with CodeSandbox
