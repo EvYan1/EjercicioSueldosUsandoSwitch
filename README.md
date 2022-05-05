@@ -1,0 +1,2 @@
+# EjercicioSueldosUsandoCase
+Created with CodeSandbox
